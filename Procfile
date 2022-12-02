@@ -1,1 +1,1 @@
-web: python main.py
+discordbot: python shiori.py
