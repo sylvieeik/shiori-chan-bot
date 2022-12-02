@@ -5,7 +5,7 @@ import re
 import locale
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NzUyMDc4MTQ4NTk3ODQxOTMx.X1SZWw.56YiRJa3c22yXaySKCns1MiN-WE'
+TOKEN = 'NzUyMDc4MTQ4NTk3ODQxOTMx.G1ZBBV.Js5CIP_kXHHTaGQtQ7A-Lwbh6U-kskZ57ADXvM'
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
